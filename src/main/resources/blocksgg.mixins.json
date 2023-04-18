@@ -1,0 +1,5 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.zircta.blocksgg.mixins",
+  "mixins": []
+}

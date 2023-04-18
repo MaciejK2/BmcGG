@@ -1,0 +1,11 @@
+{
+  "mixinConfigs": [
+    "blocksgg.mixins.json"
+  ],
+  "entrypoints": [
+    "me.zircta.blocksgg.BlocksGG"
+  ],
+  "hooks": [
+    "me.zircta.blocksgg.hook.MinecraftHook"
+  ]
+}
