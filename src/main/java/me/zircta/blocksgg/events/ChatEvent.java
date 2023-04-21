@@ -7,7 +7,7 @@ public class ChatEvent {
     @SubscribeEvent
     public void onChatReceived(ChatReceivedEvent event) {
         String message = event.getMessage().getUnformattedText();
-        if (message.contains("You earned") && message.contains("You now have")) {
+        if (message.startsWith("? BlocksMC ? You earned 15 tokens!")) {
             Minecraft.getMinecraft().thePlayer.sendChatMessage("gg");
         }
     }
