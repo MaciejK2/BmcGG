@@ -1,4 +1,4 @@
-# BlocksGG
+# BmcGG
 AutoGG for BlocksMC.com using Weave!
 
 # Usage
