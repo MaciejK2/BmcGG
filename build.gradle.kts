@@ -10,6 +10,7 @@ minecraft.version("1.8.9")
 
 repositories {
     maven("https://jitpack.io")
+    maven("https://repo.spongepowered.org/maven/")
 }
 
 dependencies {
