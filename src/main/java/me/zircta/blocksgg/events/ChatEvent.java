@@ -1,7 +1,7 @@
 package me.zircta.blocksgg.events;
 
-import club.maxstats.weave.loader.api.event.ChatReceivedEvent;
-import club.maxstats.weave.loader.api.event.SubscribeEvent;
+import net.weavemc.loader.api.event.ChatReceivedEvent;
+import net.weavemc.loader.api.event.SubscribeEvent;
 import net.minecraft.client.Minecraft;
 public class ChatEvent {
     @SubscribeEvent
