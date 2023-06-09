@@ -6,4 +6,5 @@ AutoGG for BlocksMC.com using Weave!
 - Download [weave-loader.](https://github.com/Weave-MC/Weave-Loader)
 - Put launcher-launcher-inject and weave-loader into the same folder.
 - Make a new folder in %userprofile% called ".weave".
+- Make a new folder inside of ".weave" called "mods".
 - Drag BlocksGG-1.0.jar into the new folder.
